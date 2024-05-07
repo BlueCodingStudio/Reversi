@@ -1,2 +1,12 @@
 # Reversi
-Reversi for Windows 10, Comes with WineVdm and RLauncher. Made possible with the help of <a href="url"> github.com/otya128/winevdm/ </a>
+Reversi for Windows 10, Comes with WineVdm and RLauncher. 
+
+Made possible with the help of <a href="url"> github.com/otya128/winevdm/ </a>
+RLauncher is a Java Program made by me to give 2 options before opening Reversi.
+
+<H2>RLauncher</H2>
+RLauncher Gives You 2 Options
+
+The Original Reversi (Included in Windows 1.x, 2.x, 3.0)
+
+The Updated Reversi (Included in Driver Pack for Windows 3.1)
