@@ -1,7 +1,7 @@
 # Reversi
 Reversi for Windows 10, Comes with WineVdm and RLauncher. 
 
-Made possible with the help of <a href="url"> github.com/otya128/winevdm/ </a>
+Made possible with the help of <a href="github.com/otya128/winevdm/">WineVDM</a>
 <br>
 RLauncher is a Java Program made by me as a GUI for WineVDM
 <H2>RLauncher</H2>
