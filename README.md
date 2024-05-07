@@ -14,7 +14,7 @@ RLauncher is a Java Program made by me as a GUI for WineVDM
 <h2>Installation</h2>
 Download the Zip File
 <br>
-Drag it to C:/
+Move ".reversi" to C:/
 <br>
 Unzip it
 <br>
