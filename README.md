@@ -6,7 +6,6 @@ Made possible with the help of <a href="url"> github.com/otya128/winevdm/ </a>
 RLauncher is a Java Program made by me as a GUI for WineVDM
 <H2>RLauncher</H2>
 <h4>RLauncher Gives You Two Versions of Reversi</h4>
-<br>
 <h6>The Original Reversi (Included in Windows 1.x, 2.x, 3.0)</h6>
 <img src="R1.png" alt="Windows 1.0 Running Reversi">
 <h6>The Updated Reversi (Included in Driver Pack for Windows 3.1)</h6>
@@ -14,8 +13,11 @@ RLauncher is a Java Program made by me as a GUI for WineVDM
 
 <h2>Installation</h2>
 Download the Zip File
+<br>
 Drag it to C:/
+<br>
 Unzip it
+<br>
 Run RLauncher.exe or RLauncher.jar
 
 <h1>AND CAN YOU BELIEVE IT?!</H1>
