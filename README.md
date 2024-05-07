@@ -18,6 +18,6 @@ Drag it to C:/
 Unzip it
 Run RLauncher.exe or RLauncher.jar
 
-AND CAN YOU BELIEVE IT?!
+<h1>AND CAN YOU BELIEVE IT?!</H1>
 
 <H1>REVERSI</H1>
