@@ -19,7 +19,8 @@ Drag it to C:/
 Unzip it
 <br>
 Run RLauncher.exe or RLauncher.jar
-
+<br>
+Happy REVERSIng!
 <h1>AND CAN YOU BELIEVE IT?!</H1>
 
 <H1>REVERSI</H1>
